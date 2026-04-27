@@ -1,0 +1,9 @@
+ItemCode,Product,Category,QtyInStock,ReorderLevel,UnitPrice
+A10,Laptop,Electronics,45,20,1200
+A11,Mouse,Accessories,150,50,25
+A12,Keyboard,Accessories,85,30,45
+A13,Monitor,Electronics,32,15,300
+A14,Desk,Furniture,12,10,250
+A15,Chair,Furniture,28,15,150
+A16,Webcam,Accessories,60,25,80
+A17,Headset,Accessories,110,40,65
