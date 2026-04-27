@@ -1,0 +1,27 @@
+Project 1: SalesData Worksheet
+Task 1: Format the data range A1:F11 as a Table. Apply the Table Style Light 13. Ensure the table has headers.
+Task 2: Apply a Green Fill with Dark Green Text conditional formatting to all cells in the Amount column that are strictly greater than 1500.
+Task 3: In cell H2, use a function to calculate the total Amount of sales specifically for the North region.
+Task 4: Configure the worksheet so that only the cell range A1:F11 is set as the Print Area.
+Task 5: Modify the document properties by adding the tag Q2_Report.
+
+Project 2: EmployeeRoster Worksheet
+Task 1: In cell G1, type the header Email. In cell G2, use the Flash Fill tool (or a formula) to generate an email address for John Doe in the format John.Doe@company.com. Fill the pattern down to the rest of the column.
+Task 2: The company accidentally added duplicate records (Assume you found some). Use a table tool to remove duplicate rows based only on the Department column. Keep the first occurrence.
+Task 3: Create a copy of the EmployeeRoster worksheet and place it at the very end of the workbook.
+Task 4: In cell H1, type the header Bonus. In cell H2, use a logical function to evaluate the Salary. If the Salary is greater than or equal to 60000, display the word Eligible. Otherwise, display Not Eligible.
+Task 5: Insert a Clustered Column chart that shows the Salary for each LastName. Place the chart so its top-left corner is in cell J2.
+
+Project 3: Inventory Worksheet
+Task 1: Freeze the top row of the worksheet so the headers remain visible when scrolling.
+Task 2: Assign the name Prices to the cell range F2:F9.
+Task 3: In cell G1, type the header Stock Trend. In cells G2:G9, insert Column Sparklines that compare the QtyInStock (column D) and the ReorderLevel (column E).
+Task 4: Convert the data range to a Table (any style) and add a Total Row. Configure the Total Row to display the Average of the UnitPrice column instead of a sum.
+Task 5: In cell I2, use a lookup function to find and display the Category of the product that has an ItemCode of A15. Require an exact match.
+
+Project 4: ProjectSummary Worksheet
+Task 1: Format the data in the Completion column (E2:E6) as Percentages with exactly zero decimal places.
+Task 2: Insert a Slicer for the Manager column. Use the slicer to filter the data so only the projects managed by Smith and Brown are visible.
+Task 3: In cell G1, type the header System Code. In cell G2, use a combination of text functions to extract the first 2 letters of the ProjectName and display them in uppercase letters.
+Task 4: Insert a 2D Pie Chart based on the ProjectName and Budget columns. Move this chart to a new chart sheet named BudgetChart.
+Task 5: Add the Alternative Text description Project Allocations to the pie chart you just created.
