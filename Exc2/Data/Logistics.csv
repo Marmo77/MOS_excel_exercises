@@ -1,0 +1,8 @@
+ShipmentID,Warehouse,Destination,Weight,Status,Cost
+S901,North,London,450,Delivered,120
+S902,South,Paris,800,In Transit,250
+S903,North,Berlin,320,Delivered,95
+S904,East,London,550,Delivered,145
+S905,South,Rome,1200,Pending,400
+S906,North,London,210,Delivered,60
+S907,East,Paris,670,In Transit,210
